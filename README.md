@@ -1,10 +1,10 @@
-# 💫 About Me:
+# 🧙 About Me:
 My name is Jared, I'm a junior software dev studying at NAIT in my final year!
 ---
 Currently working closely with our client for the capstone project. 
 
 
-## 🌐 Socials:
+## 🌐 Email:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adamsjared222@gmail.com) 
 
 # 💻 Tech Stack:
