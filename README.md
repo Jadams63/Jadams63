@@ -1,5 +1,7 @@
 # 💫 About Me:
-My names Jared, im based out of Morinville, Alberta.<br>I'm a junior software dev studying at NAIT in my final year!
+My name is Jared, I'm a junior software dev studying at NAIT in my final year!
+
+Currently working closely with our client for my capstone project. 
 
 
 ## 🌐 Socials:
