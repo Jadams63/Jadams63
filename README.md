@@ -1,7 +1,7 @@
 # 💫 About Me:
 My name is Jared, I'm a junior software dev studying at NAIT in my final year!
-
-Currently working closely with our client for my capstone project. 
+---
+Currently working closely with our client for the capstone project. 
 
 
 ## 🌐 Socials:
