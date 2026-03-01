@@ -12,6 +12,15 @@ Currently working closely with our client for the capstone project.
 
 
 ---
+<details>
+<summary><h3>My coding journey so far</h3></summary>
+  sdfasdfasdfasdfasdfasdfasd
+  asdfasdfa
+  dsfasdfasdf
+  asdfas
+  dfasdf
+  asdf
+</details>
 [![](https://visitcount.itsvg.in/api?id=Jadams63&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
